@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Banking-and-Finance-Management-Frontend/static/css/main.9a52f859.css",
+    "main.js": "/Banking-and-Finance-Management-Frontend/static/js/main.61c824dc.js",
+    "static/js/453.6d0dbf61.chunk.js": "/Banking-and-Finance-Management-Frontend/static/js/453.6d0dbf61.chunk.js",
+    "static/media/wallpaper1.mp4": "/Banking-and-Finance-Management-Frontend/static/media/wallpaper1.412712fc732c30fdb39d.mp4",
+    "static/media/Signup.jpg": "/Banking-and-Finance-Management-Frontend/static/media/Signup.7bacce00931e29b5edb6.jpg",
+    "static/media/Log.jpg": "/Banking-and-Finance-Management-Frontend/static/media/Log.77f4484ccbec1610cbcb.jpg",
+    "static/media/logo.png": "/Banking-and-Finance-Management-Frontend/static/media/logo.0409fd0f3509dbf1eac8.png",
+    "index.html": "/Banking-and-Finance-Management-Frontend/index.html",
+    "main.9a52f859.css.map": "/Banking-and-Finance-Management-Frontend/static/css/main.9a52f859.css.map",
+    "main.61c824dc.js.map": "/Banking-and-Finance-Management-Frontend/static/js/main.61c824dc.js.map",
+    "453.6d0dbf61.chunk.js.map": "/Banking-and-Finance-Management-Frontend/static/js/453.6d0dbf61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a52f859.css",
+    "static/js/main.61c824dc.js"
+  ]
+}
